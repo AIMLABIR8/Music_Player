@@ -14,10 +14,9 @@ A simple and elegant music player built to provide a smooth audio playback exper
 
 🔊 Volume control
 
-🛠️ Tech Stack
-Frontend: 
+🚀 Technologies Used
 HTML
-CSS 
+CSS
 JavaScript
 
 
