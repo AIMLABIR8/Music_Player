@@ -12,8 +12,6 @@ A simple and elegant music player built to provide a smooth audio playback exper
 
 ⏱️ Seek and progress tracking
 
-🌓 Light/Dark mode toggle (optional if implemented)
-
 🔊 Volume control
 
 🛠️ Tech Stack
