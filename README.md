@@ -15,9 +15,9 @@ A simple and elegant music player built to provide a smooth audio playback exper
 🔊 Volume control
 
 🚀 Technologies Used
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 
 💡 Inspiration & Goals
